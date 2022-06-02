@@ -1,0 +1,18 @@
+body{
+    margin-top: 10%;
+    margin-bottom: 30%;
+
+}
+
+img{
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+button{
+    background-color: rgb(35, 35, 37);
+    position: absolute;
+    color: white;
+    margin-left: 47%;
+    border-radius: 20px;
+}
