@@ -16,3 +16,19 @@ button{
     margin-left: 47%;
     border-radius: 20px;
 }
+
+.Nav ul li{
+    display: inline-block;
+    padding: 15px 30px;
+}
+
+.Nav ul li a{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+
+.Nav ul li a:hover{
+    color: red;
+    transition: 0.5s;
+}
